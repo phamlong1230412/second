@@ -100,7 +100,7 @@ $(document).ready(function () {
 
                 $.ajax({
 
-                    url: "https://phamlong123.000webhostapp.com/ajax.php",
+                    url: "https://phamlong123.000webhostapp.com",
 
                     method: "GET",
                     crossDomain: true,
